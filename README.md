@@ -1,2 +1,2 @@
 # My-CV
-[View My CV](cv.pdf)
+[View My CV](cv_page.jpg)
