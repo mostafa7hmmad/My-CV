@@ -1,3 +1,3 @@
 # My-CV
-![View My CV](cv_page.jpg)
+![View My CV](MYCV.jpg)
 
